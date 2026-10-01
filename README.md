@@ -14,11 +14,11 @@
 
 **Languages**
 
-`C` `C++` `Java` `Python` `SQL`
+`C` `C++` `Python` `SQL`
 
 **Web & Backend**
 
-`React` `Node.js` `Express` `MongoDB`
+`FastAPI` `Postgre SQL` 
 
 **Tools**
 
@@ -42,7 +42,7 @@
 
 - 🧠 Practicing Data Structures & Algorithms
 - 🐍 Learning Python
-- 🗄️ Practicing SQL
+- 🗄️ Practicing PostgreSQL
 - ⚙️ Exploring backend development
 - 🚀 Building projects and learning by doing
 
