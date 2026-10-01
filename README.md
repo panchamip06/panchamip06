@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Panchami 👋
 
-<!--
-**panchamip06/panchamip06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering student at **BMSCE, Bengaluru**
 
-Here are some ideas to get you started:
+💻 Learning by building • Solving problems • Exploring technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning **Python, SQL, DSA & Backend Development**
+
+🎨 Bharatanatyam dancer • Artist • Manga lover
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`C` `C++` `Java` `Python` `SQL`
+
+**Web & Backend**
+
+`React` `Node.js` `Express` `MongoDB`
+
+**Tools**
+
+`Git` `GitHub` `VS Code`
+
+---
+
+## 🚀 Projects
+
+🌱 **EcoShare** — Collaborative trip planning and expense splitting platform with sustainability insights.
+
+✈️ **WanderMatch** — Travel discovery project built during a hackathon.
+
+🧠 **StriversA2Z** — My Data Structures & Algorithms practice and solutions.
+
+🤖 **AI Lab** — AI/ML experiments and implementations.
+
+---
+
+## 🌱 Currently
+
+- 🧠 Practicing Data Structures & Algorithms
+- 🐍 Learning Python
+- 🗄️ Practicing SQL
+- ⚙️ Exploring backend development
+- 🚀 Building projects and learning by doing
+
+---
+
+## 🎨 Beyond Code
+
+When I'm not coding, you'll probably find me:
+
+🩰 Dancing Bharatanatyam  
+🎨 Drawing  
+📚 Reading manga  
+🌏 Exploring new things
+
+---
+
+## 🤝 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/panchamip06) • [GitHub](https://github.com/panchamip06)
