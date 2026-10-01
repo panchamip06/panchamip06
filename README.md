@@ -28,13 +28,24 @@
 
 ## 🚀 Projects
 
-🌱 **EcoShare** — Collaborative trip planning and expense splitting platform with sustainability insights.
 
-✈️ **WanderMatch** — Travel discovery project built during a hackathon.
+### ✈️ [WanderMatch](https://github.com/panchamip06/WanderMatch)
+Travel-focused hackathon project built to help users discover experiences based on their preferences.
 
-🧠 **StriversA2Z** — My Data Structures & Algorithms practice and solutions.
+**Tech:** Python • FastAPI • PostgreSQL
 
-🤖 **AI Lab** — AI/ML experiments and implementations.
+### 🌱 [EcoShare](https://github.com/panchamip06/EcoShare)
+Collaborative trip-planning and expense-splitting platform with sustainability insights.
+
+**Tech:** React • Node.js • Express • MongoDB
+
+### 🧠 [StriversA2Z](https://github.com/panchamip06/StriversA2Z)
+My Data Structures & Algorithms practice, covering common problems and implementations.
+
+**Language:** C++
+
+### 🤖 [AI Lab](https://github.com/panchamip06/AI_Lab)
+A collection of AI/ML experiments and implementations while learning different concepts.
 
 ---
 
